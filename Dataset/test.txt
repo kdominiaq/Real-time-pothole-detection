@@ -16,4 +16,4 @@
 /home/kdominiaq/Documents/github/Real-time-polhole-detection/Dataset/16.jpg
 /home/kdominiaq/Documents/github/Real-time-polhole-detection/Dataset/17.jpg
 /home/kdominiaq/Documents/github/Real-time-polhole-detection/Dataset/18.jpg
-/home/kdominiaq/Documents/github/Real-time-polhole-detection/Dataset/19.jpg
+
