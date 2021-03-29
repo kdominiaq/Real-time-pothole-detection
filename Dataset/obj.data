@@ -1,9 +1,9 @@
 classes=1
 
-train = /train.txt
+train = /Documents/github/Real-time-polhole-detection/Dataset/train.txt
 
-valid = /test.txt
+valid = /Documents/github/Real-time-polhole-detection/Dataset/test.txt
 
-names = /classes.txt/classes.names
+names = /Documents/github/Real-time-polhole-detection/Dataset/classes.txt/classes.names
 
-backup = backup/
+backup = /Documents/github/Real-time-polhole-detection/Dataset/backup/
